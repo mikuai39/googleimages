@@ -1,2 +1,2 @@
-From docker.io/flannel/flannel:v0.20.2
+From docker.io/flannel/flannel-cni-plugin:v1.1.2
 Maintainer zhushengpenglearn@126.com
