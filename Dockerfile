@@ -1,2 +1,2 @@
-From registry.aliyuncs.com/google_containers/kube-apiserver:v1.18.0
+From kubectl
 Maintainer zhushengpenglearn@126.com
