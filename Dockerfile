@@ -1,2 +1,2 @@
-From registry.aliyuncs.com/google_containers/etcd:3.4.3-0
+From registry.aliyuncs.com/google_containers/coredns:1.6.7
 Maintainer zhushengpenglearn@126.com
