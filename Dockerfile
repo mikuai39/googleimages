@@ -1,2 +1,2 @@
-From registry.aliyuncs.com/google_containers/coredns:1.6.7
+From registry.aliyuncs.com/google_containers/kube-apiserver:v1.18.0
 Maintainer zhushengpenglearn@126.com
