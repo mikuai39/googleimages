@@ -1,2 +1,2 @@
-From registry.k8s.io/pause:3.9
+From quay.io/tigera/operator:v1.32.3
 Maintainer zhushengpenglearn@126.com
