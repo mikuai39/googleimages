@@ -1,2 +1,2 @@
-From registry.k8s.io/pause:3.6
+From calico/node-driver-registrar:v3.27.0
 Maintainer zhushengpenglearn@126.com
