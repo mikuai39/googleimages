@@ -1,2 +1,2 @@
-From registry.k8s.io/etcd:3.5.9-0
+From registry.k8s.io/coredns/coredns:v1.10.1
 Maintainer zhushengpenglearn@126.com
