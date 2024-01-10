@@ -1,2 +1,2 @@
-From registry.k8s.io/kube-proxy:v1.28.5
+From registry.k8s.io/etcd:3.5.9-0
 Maintainer zhushengpenglearn@126.com
