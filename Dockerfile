@@ -1,2 +1,2 @@
-From registry.k8s.io/coredns/coredns:v1.10.1
+From calico/apiserver:v3.27.0
 Maintainer zhushengpenglearn@126.com
