@@ -1,2 +1,2 @@
-From registry.k8s.io/build-image/distroless-iptables:v0.2.8
+From quay.io/minio/csi-node-driver-registrar:v2.8.0
 Maintainer zhushengpenglearn@126.com
