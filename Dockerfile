@@ -1,2 +1,2 @@
-From quay.io/minio/csi-provisioner:v3.5.0
+From quay.io/minio/livenessprobe:v2.10.0
 Maintainer zhushengpenglearn@126.com
