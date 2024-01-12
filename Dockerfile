@@ -1,2 +1,2 @@
-From quay.io/minio/csi-node-driver-registrar:v2.8.0
+From quay.io/minio/csi-provisioner:v3.5.0
 Maintainer zhushengpenglearn@126.com
