@@ -1,2 +1,2 @@
-From quay.io/minio/csi-resizer:v1.8.0
+From quay.io/minio/directpv:latest
 Maintainer zhushengpenglearn@126.com
