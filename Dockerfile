@@ -1,2 +1,2 @@
-From cr.yandex/crp9ftr22d26age3hulg/csi-s3:0.40.0
+From goharbor/harbor-core:v2.10.0
 Maintainer zhushengpenglearn@126.com
