@@ -1,2 +1,2 @@
-From goharbor/trivy-adapter-photon:v2.10.0
+From k8s.gcr.io/sig-storage/csi-provisioner:v2.2.2
 Maintainer zhushengpenglearn@126.com
