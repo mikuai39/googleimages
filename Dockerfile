@@ -1,2 +1,2 @@
-From k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.5.0
+From ghcr.io/requarks/wiki:2
 Maintainer zhushengpenglearn@126.com
