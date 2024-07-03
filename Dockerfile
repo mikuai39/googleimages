@@ -1,2 +1,2 @@
-From registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
+From gcr.io/cadvisor/cadvisor:v0.49.1
 Maintainer zhushengpenglearn@126.com
