@@ -1,2 +1,2 @@
-From registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.11.0
+From ghcr.io/jimmidyson/configmap-reload:v0.13.1
 Maintainer zhushengpenglearn@126.com
