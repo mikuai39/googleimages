@@ -1,2 +1,2 @@
-From registry.k8s.io/sig-storage/csi-snapshotter:v7.0.1
+From registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.11.0
 Maintainer zhushengpenglearn@126.com
