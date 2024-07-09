@@ -1,2 +1,2 @@
-From gcr.io/cadvisor/cadvisor:v0.49.1
+From docker.n8n.io/n8nio/n8n
 Maintainer zhushengpenglearn@126.com
