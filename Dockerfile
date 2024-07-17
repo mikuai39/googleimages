@@ -1,2 +1,2 @@
-From ghcr.io/plankanban/planka:latest
+From postgres:14-alpine
 Maintainer zhushengpenglearn@126.com
