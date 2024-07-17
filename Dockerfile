@@ -1,2 +1,2 @@
-From lscr.io/linuxserver/code-server:latest
+From ghcr.io/plankanban/planka:latest
 Maintainer zhushengpenglearn@126.com
