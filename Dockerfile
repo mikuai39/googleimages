@@ -1,2 +1,2 @@
-From gcr.io/zenika-hub/alpine-chrome:123
+From ghcr.io/go-shiori/shiori
 Maintainer zhushengpenglearn@126.com
