@@ -1,2 +1,2 @@
-From gcr.io/zenika-hub/alpine-chrome:123
+From getmeili/meilisearch:v1.6
 Maintainer zhushengpenglearn@126.com
