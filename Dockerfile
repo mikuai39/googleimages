@@ -1,2 +1,2 @@
-From ghcr.io/hoarder-app/hoarder-web:release
+From gcr.io/zenika-hub/alpine-chrome:123
 Maintainer zhushengpenglearn@126.com
