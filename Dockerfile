@@ -1,2 +1,2 @@
-From getmeili/meilisearch:v1.6
+From ghcr.io/hoarder-app/hoarder-workers:release
 Maintainer zhushengpenglearn@126.com
