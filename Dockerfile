@@ -1,2 +1,2 @@
-From docker.n8n.io/n8nio/n8n:latest
+From ghcr.io/open-webui/open-webui:cuda
 Maintainer zhushengpenglearn@126.com
