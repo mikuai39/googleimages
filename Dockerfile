@@ -1,2 +1,2 @@
-From ghcr.io/open-webui/open-webui:cuda
+From konradkleine/docker-registry-frontend:v2
 Maintainer zhushengpenglearn@126.com
