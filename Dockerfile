@@ -1,2 +1,2 @@
-From konradkleine/docker-registry-frontend:v2
+From justsong/one-api:latest
 Maintainer zhushengpenglearn@126.com
