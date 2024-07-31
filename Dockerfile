@@ -1,2 +1,2 @@
-From quay.io/coreos/etcd:v3.5.5
+From milvusdb/milvus:v2.4.3
 Maintainer zhushengpenglearn@126.com
