@@ -1,2 +1,2 @@
-From justsong/one-api:latest
+From mintplexlabs/anythingllm:latest
 Maintainer zhushengpenglearn@126.com
