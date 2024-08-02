@@ -1,2 +1,2 @@
-From minio/minio:RELEASE.2023-03-20T20-16-18Z
+From xhofe/alist-aria2:latest
 Maintainer zhushengpenglearn@126.com
