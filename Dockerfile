@@ -1,2 +1,2 @@
-From jvmilazz0/kavita:latest
+From p3terx/ariang:latest
 Maintainer zhushengpenglearn@126.com
