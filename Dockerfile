@@ -1,2 +1,2 @@
-From p3terx/ariang:latest
+From jlesage/firefox:latest
 Maintainer zhushengpenglearn@126.com
