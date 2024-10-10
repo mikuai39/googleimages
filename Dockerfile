@@ -1,2 +1,2 @@
-From outlinewiki/outline:0.79.1
+From cuttlefish-orchestration:latest
 Maintainer zhushengpenglearn@126.com
