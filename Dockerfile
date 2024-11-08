@@ -1,2 +1,2 @@
-From henrygd/beszel-agent:latest
+From zaproxy/zap-stable:latest
 Maintainer zhushengpenglearn@126.com
