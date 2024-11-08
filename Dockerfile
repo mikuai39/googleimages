@@ -1,2 +1,2 @@
-From xalimar/core-keeper-dedicated:latest
+From henrygd/beszel:latest
 Maintainer zhushengpenglearn@126.com
