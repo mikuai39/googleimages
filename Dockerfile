@@ -1,2 +1,2 @@
-From gameservermanagers/gameserver:sb
+From gameservermanagers/gameserver:terraria
 Maintainer zhushengpenglearn@126.com
