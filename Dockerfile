@@ -1,2 +1,2 @@
-From gameservermanagers/gameserver:terraria
+From gameservermanagers/gameserver:fctr
 Maintainer zhushengpenglearn@126.com
