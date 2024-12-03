@@ -1,2 +1,2 @@
-From hujinbo23/dst-admin-go:1.3.1
+From triliumnext/notes:v0.90.12
 Maintainer zhushengpenglearn@126.com
