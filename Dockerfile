@@ -1,2 +1,2 @@
-From gcr.io/flame-public/buildbuddy-app-onprem:latest
+From postgres:14
 Maintainer zhushengpenglearn@126.com
