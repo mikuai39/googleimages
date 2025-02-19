@@ -1,2 +1,2 @@
-From postgres:16-alpine
+From ghcr.io/linkwarden/linkwarden:latest
 Maintainer zhushengpenglearn@126.com
