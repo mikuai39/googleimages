@@ -1,2 +1,2 @@
-From ghcr.io/anduin2017/how-to-cook:latest
+From postgres:16-alpine
 Maintainer zhushengpenglearn@126.com
