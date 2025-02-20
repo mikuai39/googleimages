@@ -1,2 +1,2 @@
-From athou/commafeed:latest-postgresql
+From goniszewski/grimoire:develop
 Maintainer zhushengpenglearn@126.com
